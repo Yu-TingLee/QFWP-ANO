@@ -1,0 +1,15 @@
+torch==2.9.1
+numpy==2.4.1
+pandas==2.3.3
+matplotlib==3.10.8
+scikit-learn==1.8.0
+pennylane==0.44.0
+gast==0.7.0
+gymnasium==1.2.3
+minigrid==3.0.0
+# transitive, pinned to the environment that produced the paper's results
+pennylane_lightning==0.44.0
+autoray==0.8.2
+autograd==1.8.0
+scipy==1.17.0
+pygame==2.6.1

@@ -1,0 +1,8 @@
+__pycache__/
+checkpoints/
+logs/
+results/
+figures/
+paper/
+*.zip
+.DS_Store
